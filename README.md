@@ -2,7 +2,7 @@
 
 - 👨‍💻 Hoje eu estudo e trabalho com front-end
 - 🤓 Tenho um pequeno conhecimento em Python
-- 📫 contate-me no email : ddvison.12@gmail.com
+- 📫 contate-me no email : daywiso.santos@gmail.com
 
 <div align="center">
   <a href="https://github.com/Daywison11">
