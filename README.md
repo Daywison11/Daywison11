@@ -1,7 +1,4 @@
 ## Olá! meu nome é Daywison Santos
-
-- 👨‍💻 Hoje eu estudo e trabalho com front-end
-- 🤓 Tenho um pequeno conhecimento em Python
 - 📫 contate-me no email : daywiso.santos@gmail.com
 
 <div align="center">
